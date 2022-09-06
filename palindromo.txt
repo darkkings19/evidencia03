@@ -1,0 +1,43 @@
+punto 1
+¿Qué hace el método?
+
+Revisa si la palabra ingresada es o no palíndromo.
+
+¿Cómo lo hace?
+Crea una cadena con la palabra ingresada y después compara si la palabra es igual a la original al invertirla.
+
+¿Cómo lo uso?
+Esribiendo la palabra por pantalla.
+
+
+split('')= declara una palabra en una cadena de caracterees
+reverse = invierte la palabra
+join = convierte la cadena de caracateres en una string
+
+
+
+Punto 3:
+3.2
+- Confirmar que la palabra inversa es igualñ a la original.
+- Un caso de prueba puede ser una palabra palindromo como reconocer.
+- Un caso en que la plabra no es palindromo como loquisimo.
+- Un caso donde los caracteres no sea adecuados ·$%&·$jkfha
+- Un caso numerico.
+3.4
+- Con el caso de "aca" dice que es palíndromo.
+- Con el caso de "acas" dice que no es palíndromo.
+- Con el caso de la "h" dice que es palíndromo ya que es una letra única.
+
+punto 4:
+4.1
+- Primera prueba número entero (nuestro programa lo compila y dice que no es palíndromo).
+- Segunda prueba cadena vacia (compila y dice que es palíndromo).
+- Tercera prueba "aaabccbaaa" (compila y dice que es palíndromo ya que los caracteres de la palabra son iguales al invertirlas).
+- Cuarta prueba "ahabccbaaa" (compila y dice que no es palíndromo ya que no es igual al revés).
+- Última prueba "La tele leta"(compila y dice que no es palíndromo ya que es una frase y después del espacio el escaner no toma ningún caracter).
+4.2
+¿Qué consideraciones tomaron en cuenta?
+que el codigo copilara aun si ingresaban cosas que noe xistian
+¿Qué mejoró en su método?
+que no tire error en cualquier momento
+¿Qué rol jugaron las pruebas en mejorar su código?
