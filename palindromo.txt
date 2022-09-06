@@ -34,7 +34,7 @@ punto 4:
 - Segunda prueba cadena vacia (compila y dice que es palíndromo).
 - Tercera prueba "aaabccbaaa" (compila y dice que es palíndromo ya que los caracteres de la palabra son iguales al invertirlas).
 - Cuarta prueba "ahabccbaaa" (compila y dice que no es palíndromo ya que no es igual al revés).
-- Última prueba "La tele leta"(compila y dice que no es palíndromo ya que es una frase y después del espacio el escaner no toma ningún caracter).
+- Última prueba "La tele leta"(compila y dice que es palíndromo).
 4.2
 ¿Qué consideraciones tomaron en cuenta?
 que el codigo copilara aun si ingresaban cosas que noe xistian
